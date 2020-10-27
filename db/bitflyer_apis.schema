@@ -1,0 +1,3 @@
+create_table :bitflyer_apis, { options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC" } do |t|
+  t.timestamps
+end

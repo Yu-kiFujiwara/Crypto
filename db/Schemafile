@@ -1,2 +1,5 @@
+require 'bitflyer_apis.schema'
+require 'coincheck_apis.schema'
+require 'scraping_datum.schema'
 require 'scrapings.schema'
 require 'users.schema'

@@ -1,0 +1,5 @@
+create_table :scraping_datum, { options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC" } do |t|
+  t.integer       :scraping_id, null: false
+  t.string        :content, null: false
+  t.timestamps
+end
