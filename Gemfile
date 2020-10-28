@@ -66,6 +66,7 @@ gem "csv"
 gem "capybara"
 gem 'devise'
 gem 'dotenv-rails'
+gem 'firebase'
 gem 'html2slim'
 gem 'kimurai'
 gem 'mechanize'
